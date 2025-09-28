@@ -1,0 +1,33 @@
+<svg width="450" height="90" viewBox="0 0 450 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title {
+        font: bold 40px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        fill: #FFFFFF;
+      }
+      .logo-color {
+        fill: #4D79FF; /* Tech/AI Blue */
+      }
+      .logo-accent {
+        fill: #39FF14; /* Operations/System Green */
+      }
+      .background {
+        fill: #1A1A2E; /* Dark background */
+        rx: 10;
+      }
+    </style>
+  </defs>
+
+  <rect class="background" width="100%" height="100%"/>
+
+  <g transform="translate(30, 45)">
+    <circle class="logo-accent" cx="0" cy="0" r="18" opacity="0.6"/>
+    <path class="logo-accent" d="M -15 -18 L -15 -22 L 15 -22 L 15 -18 Z M -22 -15 L -22 15 L -18 15 L -18 -15 Z M 18 -15 L 18 15 L 22 15 L 22 -15 Z M -15 18 L -15 22 L 15 22 L 15 18 Z" transform="rotate(30)"/>
+    
+    <circle class="logo-color" cx="0" cy="0" r="10"/>
+    <path class="logo-color" d="M 0,-12 a 12,12 0 0 0 -10,6 a 10,10 0 0 0 20,0 a 12,12 0 0 0 -10,-6" transform="translate(0, 0) rotate(180)"/>
+  </g>
+
+  <text class="title" x="75" y="60">BackOps.ai</text>
+  
+</svg>
