@@ -48,6 +48,26 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/Devpatel1901/blackjack" target="_blank"> <img alt="Go Blackjack" src="./projects/blackjack.svg" height="68" align="left"> </a>
-<a href="https://github.com/Devpatel1901/backops.ai" target="_blank"> <img alt="sheetsdatabase" src="./projects/backops.svg"  height="68" align="left"> </a>
-<a href="https://github.com/Devpatel1901/CodeNexus" target="_blank"> <img alt="sheetsdatabase" src="./projects/codenexus.svg"  height="68" align="left"> </a>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Devpatel1901/blackjack" target="_blank">
+        <img src="./projects/blackjack.svg" alt="Go Blackjack" height="68"><br/>
+        <sub><b>Blackjack AI</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Devpatel1901/backops.ai" target="_blank">
+        <img src="./projects/backops.svg" alt="BackOps" height="68"><br/>
+        <sub><b>BackOps.AI</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Devpatel1901/CodeNexus" target="_blank">
+        <img src="./projects/codenexus.svg" alt="CodeNexus" height="68"><br/>
+        <sub><b>CodeNexus</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
