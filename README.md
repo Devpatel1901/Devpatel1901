@@ -18,24 +18,54 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://go.dev" target="_blank"><img align="left" alt="Go" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg"></a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg"></a>
-<a href="https://isocpp.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg" alt="c++" height='42px'/> </a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg" alt="aws" height='42px'/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" height='42px'/> </a>
-<a href="https://www.docker.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height='42px'/> </a>
-<a href="https://flutter.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" alt="flutter" height='42px'/> </a>
 
-<br>
-<br>
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"/>
+  </a>
+  <a href="https://go.dev" target="_blank">
+    <img alt="Go" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+    <img alt="C#" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg"/>
+  </a>
+  <a href="https://isocpp.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg" alt="c++" height="42px"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/> 
+  </a>
+  <a href="https://aws.amazon.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg" alt="aws" height="42px"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" height="42px"/> 
+  </a>
+  <a href="https://www.docker.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height="42px"/> 
+  </a>
+  <a href="https://flutter.dev" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" alt="flutter" height="42px"/> 
+  </a>
+</p>
 
 
 ### 📊 Github Stats
